@@ -8,10 +8,10 @@ We are going to use **Python 3**.
 * Conda - https://conda.io/docs/
 * VirtualEnv - http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
-## Setting up libraries
+## Installing and preparing libraries
 1. Install them using `pip install -r requirements.txt`
-2. To install SpaCy model we need use `python -m spacy download en_core_web_sm`
-
+2. To install SpaCy model we need, use `python -m spacy download en_core_web_sm`
+3. (Optional) Install jupyter or ipython: `pip install jupyter`
 ## Useful for semantic analysis
 * NLTK
   * https://marcobonzanini.com/2015/05/17/mining-twitter-data-with-python-part-6-sentiment-analysis-basics/
