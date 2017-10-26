@@ -5,3 +5,4 @@ urllib
 requests
 scikit-learn
 spacy
+gensim
