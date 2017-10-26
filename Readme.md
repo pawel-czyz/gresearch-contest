@@ -28,3 +28,10 @@ We are going to use **Python 3**.
 * GenSim
   * https://radimrehurek.com/gensim/tutorial.html
 
+
+## Checklist
+1. Computer
+2. Power supply (with an adapter if needed)
+3. Something to drink
+
+Paweł will bring some paper and cookies :)
