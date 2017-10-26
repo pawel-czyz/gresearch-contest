@@ -8,8 +8,9 @@ We are going to use **Python 3**.
 * Conda - https://conda.io/docs/
 * VirtualEnv - http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
-## Downloading libraries
-`pip install -r requirements.txt`
+## Setting up libraries
+1. Install them using `pip install -r requirements.txt`
+2. To install SpaCy model we need use `python -m spacy download en_core_web_sm`
 
 ## Useful for semantic analysis
 * NLTK
