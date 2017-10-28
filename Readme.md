@@ -11,7 +11,13 @@ We are going to use **Python 3**.
 ## Installing and preparing libraries
 1. Install them using `pip install -r requirements.txt`
 2. To install SpaCy model we need, use `python -m spacy download en_core_web_sm`
-3. (Optional) Install jupyter or ipython: `pip install jupyter`
+3. To install NLTK packages:
+`
+import nltk
+nltk.download()`
+4. (Optional) Install jupyter or ipython: `pip install jupyter`
+
+
 ## Useful for semantic analysis
 ### Essentials
 * NLTK
