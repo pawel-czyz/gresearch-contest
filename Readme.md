@@ -41,3 +41,10 @@ nltk.download()`
 3. Something to drink
 
 Paweł will bring some paper and cookies :)
+
+## Results
+Even without using any libraries except for the standard, we finished with 3rd place! Special thanks to the team!
+* Alex Cheema
+* Paweł Czyż
+* Kryštof Kolář
+* Maksymilian Marzec
